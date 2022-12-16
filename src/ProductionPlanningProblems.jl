@@ -1,4 +1,4 @@
-module ProdutionPlanningProblems
+module ProductionPlanningProblems
 
 export loadProductionPlanningProblem, generateProductionPlanningProblem, ProductionPlanningProblem
 export np, nr

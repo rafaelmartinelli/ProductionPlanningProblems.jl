@@ -1,4 +1,4 @@
-name = "ProdutionPlanningProblems"
+name = "ProductionPlanningProblems"
 uuid = "1ac99db7-4a60-487e-b13d-9b5f203d1adf"
 authors = ["Rafael Martinelli <martinelli@puc-rio.br>"]
 version = "0.1.0"
